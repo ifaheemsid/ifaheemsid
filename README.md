@@ -8,44 +8,62 @@ I am a passionate and dedicated MCA graduate with a strong interest in software 
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: Vehicle_Authentication_System
 
-- **Description:** Briefly describe the project and its objectives.
-- **Tech Stack:** List the technologies used (languages, frameworks, libraries).
-- **Role:** Mention your specific role in the project (e.g., developer, designer, project lead).
-- **Link:** Provide a link to the project repository or live demo (if applicable).
+- **Description:** it is an application named Vehicle Authentication System using java , advanced java , spring and oracle for my final year project. To detect and monitor the real-time exit and entrance for the vehicles.
+- **Tech Stack:** Java, Oracle(database) and Swing.
+- **Role:** Developer.
+- **Link:** https://github.com/ifaheemsid/Vehicle_Authentication_System
 
-### Project 2: [Project Name]
+### Project 2: Application Of Data Structure
 
-- **Description:** Briefly describe the project and its objectives.
-- **Tech Stack:** List the technologies used (languages, frameworks, libraries).
-- **Role:** Mention your specific role in the project (e.g., developer, designer, project lead).
-- **Link:** Provide a link to the project repository or live demo (if applicable).
+- **Description:** The objective of this task was to implement linear data structure on code and see its implication.
+- **Tech Stack:** Java, OOPS, Methods and Swing.
+- **Role:** Developer
+- **Link:** https://github.com/ifaheemsid/Application_of_Data_Structure
 
-### [Continue listing your projects in a similar format]
+### Project 3: OmniFood
 
+- **Description:** it is an online food delivery website. This is a project that I made for a fictional company Omnifood. It is modern looking website and also it is responsive which looks great on all devices.
+- **Tech Stack:** HTML5, CSS3, JavaScript and jQuery
+- **Role:** Developer & Designer.
+- **Link:** https://ifaheemsid.github.io/Omnifood/
+
+### Project 4: Thought Generator
+
+- **Description:** it is a Quote generator website using an API to build a random quote generator with twitter integration.you can post that quote in twitter by just clicking post to twitter button.
+- **Tech Stack:** HTML, CSS , JAVASCRIPT & REST API.
+- **Role:** Developer & Designer.
+- **Link:** https://ifaheemsid.github.io/Thoughts-Generator/
+
+### Project 5: Portfolio
+
+- **Description:** it is a good looking portfolio to showcase my designing ability.
+- **Tech Stack:** HTML, CSS.
+- **Role:** Designer.
+- **Link:** https://ifaheemsid.github.io/FaheemCoverPage/
+  
 ## Skills
 
-- **Programming Languages:** List the programming languages you are proficient in (e.g., Python, Java, JavaScript).
-- **Web Development:** Mention any front-end or back-end technologies you're familiar with (e.g., HTML/CSS, Node.js, Django).
-- **Data Analysis:** If applicable, mention data analysis tools or libraries you've used (e.g., Pandas, NumPy, Matplotlib).
-- **Version Control:** Indicate your experience with version control systems (e.g., Git, GitHub).
-- **Problem Solving:** Highlight your problem-solving abilities and any coding competitions you've participated in.
+- **Programming Languages:** Java,JavaScript, SQL, Web Technologies, Python, C language, Data Structure, Collection framework and Django.
+- **Web Development:** HTML, CSS, Node.js, Django, JavaScript.
+- **Version Control:** Git, GitHub, Brackets, Eclipse and Visual Studio.
+- **Problem Solving:** https://www.hackerrank.com/akhterf04
 
 ## Contact
 
 I'm open to collaborations, job opportunities, or just having a chat about technology! Feel free to reach out to me through the following channels:
 
-- **Email:** Your email address
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Twitter:** [Your Twitter Handle]
-- **Personal Website/Blog:** [If applicable]
+- **Email:** akhterf04@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ifaheemsid/
+- **Twitter:**  https://twitter.com/ifaheemsid
+- **Personal Website/Blog:** Working on it, Soon it will be published
 
 ## Get in Touch
 
-If you have any questions about the projects, want to collaborate, or have feedback, please don't hesitate to get in touch. I'm excited to connect with fellow developers, enthusiasts, and potential employers!
+If you have any questions about the projects, want to collaborate, or have feedback, please don't hesitate to get in touch. I'm excited to connect with fellow developers, and potential employers!
 
 Thank you for visiting my portfolio repository.
 
-Best regards,
-[Your Name]
+Regards,
+Faheem Akhter
